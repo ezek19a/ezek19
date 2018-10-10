@@ -1,0 +1,25 @@
+.image1 { 
+   position: relative;
+   width: 100%; /* for IE 6 */  
+   
+}
+
+#play img{ 
+   position: absolute;
+   top:410px; 
+   right: 135px;    
+}
+
+#pause img{ 
+   position: absolute;
+   top:410px; 
+   right: 175px;    
+}
+
+#play{
+float:right;
+	
+}
+video {
+  width: 100%;  
+}
